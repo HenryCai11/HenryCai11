@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenryCai11
 - 👀 I’m interested in Information Extraction and utilizing Knowledge Bases in Artificial Neural Networks
-- 🌱 I’m currently working on an M.S. degree in Computer Science in Shenzhen University
+- 🌱 I’m currently working on an M.S. degree in Computer Science at Shenzhen University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: henry_f_miller@163.com
 
