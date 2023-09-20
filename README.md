@@ -2,7 +2,7 @@
 - 👀 I’m interested in Knowledge-Intensive tasks, leveraging all sorts of knowledge to enhance neural networks, and reversely using neural networks to better understand human natures.
 - 🌱 I’m currently an M.S. student in Computer Science at Shenzhen University.
 - 💞️ I’m looking for a PhD position for 2024 Fall.
-- 📖 Here is the link to my [research proposal](). Please feel free to reach out if you're interested!
+- 📖 Here is the link to my [research proposal](https://github.com/HenryCai11/HenryCai11/blob/main/Language_Models_as_Knowledgeable_Agents__A_Research_Proposal.pdf). Please feel free to reach out if you're interested!
 - 📫 How to reach me: henry_f_miller@163.com
 
 <!---
