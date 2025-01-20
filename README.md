@@ -4,5 +4,5 @@
 - 🌱 I previously obtained a BA in Translation from Beijing Language and Culture University, and an MS in CS from Shenzhen University.
 - 🏠 My personal webpage is at: https://henrycai11.github.io
 - 📖 Here is also the link to my [CV](https://henrycai11.github.io/cv/). Please feel free to reach out if you're interested!
-- 📫 How to reach me: henry_f_miller@163.com / caimin2021@email.szu.edu.cn
+- 📫 How to reach me: henry_f_miller@163.com / caimin2021@email.szu.edu.cn / henryminiac@gmail.com
 - 🎯 I'm building something useful and cool (from my perspectives). Looking forward to releasing it by March, 2025!!!💪
