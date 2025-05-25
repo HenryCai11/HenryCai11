@@ -4,4 +4,4 @@
 - 🌱 I previously obtained a BA in Translation from Beijing Language and Culture University, and an MS in CS from Shenzhen University. Currently, I'm an incoming PhD student at the University of Alberta.
 - 🏠 My personal webpage is at: https://henrycai11.github.io
 - 📖 Here is also the link to my [CV](https://henrycai11.github.io/cv/). Please feel free to reach out if you're interested!
-- 📫 How to reach me: henry_f_miller@163.com / caimin2021@email.szu.edu.cn / henryminiac@gmail.com
+- 📫 How to reach me: henry_f_miller@163.com / caimin2021@email.szu.edu.cn / henryminiac@gmail.com / mcai8@ualberta.ca
