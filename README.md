@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @HenryCai11, Min Cai (蔡旻)
 - 🏠 My personal webpage is at: https://henrycai11.github.io
-- 📫 How to reach me: henry_f_miller@163.com / caimin2021@email.szu.edu.cn / henryminiac@gmail.com / mcai8@ualberta.ca
+- 📫 How to reach me: Please contact me at henryminiac@gmail.com or mcai8@ualberta.ca. I may not check other email accounts promptly.
